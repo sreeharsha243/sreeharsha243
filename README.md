@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msaisucharith&label=Profile%20views&color=0e75b6&style=flat" alt="msaisucharith" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msaisucharith" alt="msaisucharith" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreeharsha243" alt="SreeHarsha" /></a> </p>
 
-- 🌱 I’m currently learning *Angular*
+- 🌱 I’m currently learning *Java*
 
-- 📫 How to reach me *msaisucharith@gmail.com*
+- 📫 How to reach me *msharsha8118@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
