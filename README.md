@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Sree Harsha </h1>
-<h3 align="center">SCROLL DOWN 👇to know my Things </h3>
+<h3 align="center">SCROLL DOWN 👇to know ME </h3>
 
 <img align="center" alt="Coding"  width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
