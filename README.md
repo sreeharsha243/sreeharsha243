@@ -1,4 +1,4 @@
-<h1 align="center">HEY THERE </h1>
+<h1 align="center">NAMASTE </h1>
 <!--<h3 align="center">SCROLL DOWN 👇to know ABOUT ME </h3>-->
 
 <!--<img align="center" alt="Coding"  width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
