@@ -1,6 +1,8 @@
 <h1 align="center">NAMASTE </h1>
 
-<h2 align="start"> Naa Peru/My name/Nanna hesaru/Apna nam <b>HARSHA</b></h2>
+<h2 align="start"> నా పేరు/My name/ನನ್ನ ಹೆಸರು/मेरा नाम <b>HARSHA</b></h2>
 
-- 📫 How to reach me *msharsha8118@gmail.com
+<a href="msharsha8118@gmail.com" >Mail</a>
+<a href="https://www.linkedin.com/in/sree-harsha-m-54a480216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+
 
